@@ -1,17 +1,21 @@
-
 🔐 Tela de Login e Cadastro Interativo
+
 Uma interface moderna e animada para login e cadastro, desenvolvida com HTML5, CSS3 e JavaScript.
 Inclui animações suaves, suporte a redes sociais e design responsivo.
 
 📸 Experiência do Usuário
+
 A tela inicial apresenta a opção de Criar Conta ou Entrar.
 Ao clicar nos botões Sign In ou Sign Up, a tela alterna com efeito animado.
+
 🚀 Tecnologias Utilizadas
+
 HTML5 → Estrutura da página.
 CSS3 → Estilização e animações ( keyframes, transições, responsividade).
 JavaScript (Vanilla) → Alternância entre login e cadastro.
 Fonte incrível → Ícones sociais (Facebook, Google, LinkedIn).
 **Google Fonts (Open Sans) → Tipografia.
+
 📂 Estrutura do Projeto
 
 📦 projeto-login
@@ -24,7 +28,7 @@ Fonte incrível → Ícones sociais (Facebook, Google, LinkedIn).
 
 ⚙️ Como Usar
 Clonar este repositório:
-git clone https://github.com/seu-usuario/projeto-login.git
+git clone https://github.com/Ed270/Projeto-Tela-de-Login-e-Cadastrado-Interativa
 
 2. Abra o arquivo `index.html` no navegador.
 
