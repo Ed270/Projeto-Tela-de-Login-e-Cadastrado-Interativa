@@ -11,24 +11,24 @@ Ao clicar nos botões Sign In ou Sign Up, a tela alterna com efeito animado.
 🚀 Tecnologias Utilizadas
 
 HTML5 → Estrutura da página.
+
 CSS3 → Estilização e animações ( keyframes, transições, responsividade).
+
 JavaScript (Vanilla) → Alternância entre login e cadastro.
+
 Fonte incrível → Ícones sociais (Facebook, Google, LinkedIn).
+
 Google Fonts (Open Sans) → Tipografia.
 
 📂 Estrutura do Projeto
 
+
 📦 projeto-login
 ┣ 📂 css
-
 ┃ ┗ 📜 style.css     # Estilos principais e animações
-
 ┣ 📂 js
-
 ┃ ┗ 📜 app.js        # Alternância entre Login e Cadastro
-
 ┣ 📜 index.html       # Estrutura da interface
-
 ┗ 📜 README.md        # Documentação
 
 ⚙️ Como Usar
