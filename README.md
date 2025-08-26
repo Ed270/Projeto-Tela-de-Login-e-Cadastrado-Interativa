@@ -5,7 +5,7 @@ Inclui animações suaves, suporte a redes sociais e design responsivo.
 
 ---
 
-## 📸 Demonstração
+## 📸 Experiência do Usuário
 
 - Tela inicial apresenta a opção de Criar Conta ou Entrar.  
 - Ao clicar nos botões Sign In ou Sign Up, a tela alterna com efeito animado.  
