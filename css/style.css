@@ -246,6 +246,24 @@ input:-webkit-autofill
     animation: deslocamentoDir 1.3s; /*MODIFIQUEI DE 3s PARA 1.3s*/
 }
 
+/* 🔒 Ajuste para esconder colunas antigas nas transições */
+.sign-in-js .first-content .first-column,
+.sign-up-js .second-content .second-column {
+    opacity: 0;
+    visibility: hidden;
+    position: absolute;
+    display: none; /* força esconder completamente */
+}
+
+.sign-in-js .second-content .second-column,
+.sign-up-js .first-content .second-column {
+    opacity: 1;
+    visibility: visible;
+    position: relative;
+    display: flex; /* garante que a coluna ativa apareça */
+}
+
+
 /*ANIMAÇÃOO CSS PARA O CONTEÚDO*/
 
 @keyframes deslocamentoEsq {
@@ -371,11 +389,19 @@ input:-webkit-autofill
         height: 40%;
         top: 0;
         border-radius: 0;
+        
     }
     .first-content, .second-content {
         flex-direction: column;
         justify-content: space-around;
     }
+/* 🔄 Suaviza transição de visibilidade no mobile */
+   .first-content .first-column,
+   .second-content .first-column,
+   .first-content .second-column,
+   .second-content .second-column {
+    transition: opacity 0.6s ease, visibility 0.6s ease;
+}
 
     .first-column, .second-column {
         width: 100%;
