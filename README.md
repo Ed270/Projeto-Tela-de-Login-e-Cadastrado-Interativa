@@ -84,9 +84,3 @@ Inclui animações suaves, suporte a redes sociais e design responsivo.
 Desenvolvido por **Edmilson Faustino** 🚀
 [LinkedIn](https://www.linkedin.com/in/faustinoit) | [GitHub](https://github.com/Ed270)
 
-```
-
----
-
-👉 Queres que eu já deixe este **README.md pronto para GitHub** (com imagem de preview e badges de tecnologias) para valorizar mais o projeto no portfólio?
-```
