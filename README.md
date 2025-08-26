@@ -48,34 +48,16 @@ Inclui animações suaves, suporte a redes sociais e design responsivo.
 
 ## 🎨 Funcionalidades
 
-* Alternância entre **Login** e **Cadastro** com animação.
+* Alternância entre Login e Cadastro com animação.
 * Campos com ícones (nome, e-mail, senha).
 * Links para login social (Facebook, Google, LinkedIn).
-* **Responsividade**: adaptável para desktop e mobile.
+* Responsividade: adaptável para desktop e mobile.
 * Animações CSS para transições suaves.
 
 ---
 
-## 🛠️ Customização
 
-* Para alterar a cor principal, edite em `style.css`:
 
-  ```css
-  background-color: #58af9b; /* cor de destaque */
-  ```
-* Pode adicionar novas redes sociais editando a lista dentro do HTML:
-
-  ```html
-  <i class="fab fa-twitter"></i>
-  ```
-
----
-
-## 📌 Próximos Passos
-
-* Conectar os formulários a um **backend real** (Node.js, Django, etc.).
-* Adicionar **validações** nos campos de e-mail e senha.
-* Implementar recuperação de senha.
 
 ---
 
